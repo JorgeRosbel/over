@@ -6,7 +6,7 @@
     "price": "6.99 USD",
     "user": "jorgedevreact",
     "game": "emoteshowcase",
-    "date": 1748469600000
+    "youtube":"https://www.youtube.com/watch?v=CUpB0R9eON0"
   },
   {
     "id": "animate-emote-framesxx",
@@ -15,33 +15,8 @@
     "price": "6.99 USD",
     "user": "jorgedevreact",
     "game": "emoteshowcase",
-    "date": 1748469600000
+    "youtube":"https://www.youtube.com/watch?v=CUpB0R9eON0"
   },
-  {
-    "id": "animate-emote-framesaa",
-    "title": "Animate Emote Frames",
-    "description": "Build animated emotes from PNG frames — set frame rate, pick platform (Twitch / YouTube / Discord) and export GIFs in all standard sizes as a single ZIP",
-    "price": "6.99 USD",
-    "user": "jorgedevreact",
-    "game": "emoteshowcase",
-    "date": 1748469600000
-  },
-  {
-    "id": "animate-emote-framesdd",
-    "title": "Animate Emote Frames",
-    "description": "Build animated emotes from PNG frames — set frame rate, pick platform (Twitch / YouTube / Discord) and export GIFs in all standard sizes as a single ZIP",
-    "price": "6.99 USD",
-    "user": "jorgedevreact",
-    "game": "emoteshowcase",
-    "date": 1748469600000
-  },
-  {
-    "id": "animate-emote-framesyy",
-    "title": "Animate Emote Frames",
-    "description": "Build animated emotes from PNG frames — set frame rate, pick platform (Twitch / YouTube / Discord) and export GIFs in all standard sizes as a single ZIP",
-    "price": "6.99 USD",
-    "user": "jorgedevreact",
-    "game": "emoteshowcase",
-    "date": 1748469600000
-  }
+
+
 ]
