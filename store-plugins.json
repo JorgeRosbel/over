@@ -3,18 +3,9 @@
     "id": "animate-emote-frames",
     "title": "Animate Emote Frames",
     "description": "Build animated emotes from PNG frames — set frame rate, pick platform (Twitch / YouTube / Discord) and export GIFs in all standard sizes as a single ZIP",
-    "price": "3.20 USD",
+    "price": "3.00 USD",
     "user": "jorgedevreact",
-    "game": "emoteshowcase",
-    "youtube":"https://www.youtube.com/watch?v=CUpB0R9eON0"
-  },
-  {
-    "id": "image-resizer",
-    "title": "Image Resizer",
-    "description": "Resize one or more images to specified dimensions and save the output files to disk",
-    "price": "1.99 USD",
-    "user": "jorgedevreact",
-    "game": "image-resizer",
-    "youtube":"https://www.youtube.com/watch?v=CUpB0R9eON0"
+    "game": "plugin-animate-emote-frame",
+    "youtube":"https://youtu.be/hJqY7l6T2fk"
   }
 ]
