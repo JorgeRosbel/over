@@ -2,7 +2,7 @@
   {
     "id": "animate-emote-frames",
     "title": "Animate Emote Frames",
-    "description": "Build animated emote GIFs from PNG frames...",
+    "description": "Build animated emotes from PNG frames — set frame rate, pick platform (Twitch / YouTube / Discord) and export GIFs in all standard sizes as a single ZIP",
     "price": "6.99 USD",
     "user": "jorgedevreact",
     "game": "emoteshowcase",
