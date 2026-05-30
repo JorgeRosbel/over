@@ -7,5 +7,14 @@
     "user": "jorgedevreact",
     "game": "plugin-animate-emote-frame",
     "youtube":"https://youtu.be/hJqY7l6T2fk"
+  },
+  {
+    "id": "image-resizer",
+    "title": "Image Resizer",
+    "description": "Resize one or more images to specified dimensions and save the output files to disk",
+    "price": "2.00 USD",
+    "user": "jorgedevreact",
+    "game": "plugin-image-resizer",
+    "youtube":"https://youtu.be/NvTzZ4g5a-w"
   }
 ]
