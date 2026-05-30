@@ -1,4 +1,13 @@
 [
+   {
+    "id": "gif-resizer",
+    "title": "GIF Resizer",
+    "description": "Resize animated GIFs to any custom size while keeping every frame, timing and loop intact — powered by high-quality libvips scaling",
+    "price": "2.70 USD",
+    "user": "jorgedevreact",
+    "game": "plugin-gif-resizer",
+    "youtube": "https://youtu.be/nmBPP49NaZk"
+  },
   {
     "id": "animate-emote-frames",
     "title": "Animate Emote Frames",
