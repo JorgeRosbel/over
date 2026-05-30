@@ -16,5 +16,14 @@
     "user": "jorgedevreact",
     "game": "plugin-image-resizer",
     "youtube":"https://youtu.be/NvTzZ4g5a-w"
+  },
+  {
+    "id": "emote-delivery-sheet",
+    "title": "Delivery Sheet",
+    "description": "Generate a professional PNG delivery sheet showing all emotes and badges at every standard size — ready to send to clients for approval",
+    "price": "2.30 USD",
+    "user": "jorgedevreact",
+    "game": "plugin-delivery-sheet",
+    "youtube":"https://youtu.be/eaJkDVnbLW0"
   }
 ]
