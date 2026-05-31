@@ -1,4 +1,13 @@
 [
+   {  
+    "id": "live-emote",
+    "title": "Live Emote",
+    "description": "Turn a single static emote into an animated GIF — pick a motion preset (breathing, bounce, heartbeat, spin and more), tune it in a real-time preview and export a perfect seamless loop. No frames to draw, rendered with high-quality libvips (sharp)",
+    "price": "4.99 USD",
+    "user": "jorgedevreact",
+    "game": "plugin-live-emote",
+    "youtube": "https://youtu.be/2dOfdgv4DkU"
+  },
    {
     "id": "gif-resizer",
     "title": "GIF Resizer",
