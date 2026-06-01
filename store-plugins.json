@@ -1,4 +1,13 @@
 [
+   {
+    "id": "emote-puppet",
+    "title": "Emote Puppet",
+    "description": "Hand-animate a single static emote — bend and stretch it with a pin & pull mesh, drop keyframes on a timeline and export a smooth, perfectly seamless looping GIF. Save your work as a .puppet project to continue or revise it anytime. Rendered with high-quality libvips (sharp)",
+    "price": "7.99 USD",
+    "user": "jorgedevreact",
+    "game": "plugin-emote-puppet",
+    "youtube": "REPLACE_WITH_YOUTUBE_URL"
+   },
    {  
     "id": "live-emote",
     "title": "Live Emote",
