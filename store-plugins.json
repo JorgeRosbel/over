@@ -1,5 +1,14 @@
 [
    {
+    "id": "bg-remover",
+    "title": "Background Remover",
+    "description": "Turn any image with a solid, single-color background into a clean transparent PNG — batch, with edge halo removal.",
+    "price": "4.25 USD",
+    "user": "jorgedevreact",
+    "game": "plugin-background-remover",
+    "youtube":"https://youtu.be/Mr1b9ZyF-L4"
+   },
+   {
     "id": "emote-puppet",
     "title": "Emote Puppet",
     "description": "Hand-animate a single static emote — bend and stretch it with a pin & pull mesh, drop keyframes on a timeline and export a smooth, perfectly seamless looping GIF. Save your work as a .puppet project to continue or revise it anytime. Rendered with high-quality libvips (sharp)",
@@ -52,14 +61,5 @@
     "user": "jorgedevreact",
     "game": "plugin-delivery-sheet",
     "youtube":"https://youtu.be/eaJkDVnbLW0"
-  },
-   {
-    "id": "bg-remover",
-    "title": "Background Remover",
-    "description": "Turn any image with a solid, single-color background into a clean transparent PNG — batch, with edge halo removal.",
-    "price": "4.25 USD",
-    "user": "jorgedevreact",
-    "game": "plugin-background-remover",
-    "youtube":"https://youtu.be/Mr1b9ZyF-L4"
   }
 ]
