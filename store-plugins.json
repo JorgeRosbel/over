@@ -52,5 +52,14 @@
     "user": "jorgedevreact",
     "game": "plugin-delivery-sheet",
     "youtube":"https://youtu.be/eaJkDVnbLW0"
+  },
+   {
+    "id": "bg-remover",
+    "title": "Background Remover",
+    "description": "Turn any image with a solid, single-color background into a clean transparent PNG — batch, with edge halo removal.",
+    "price": "4.25 USD",
+    "user": "jorgedevreact",
+    "game": "plugin-background-remover",
+    "youtube":"https://youtu.be/Mr1b9ZyF-L4"
   }
 ]
