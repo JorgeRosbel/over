@@ -1,5 +1,14 @@
 [
    {
+    "id": "image-converter",
+    "title": "Image Converter",
+    "description": "Batch-convert images between PNG, JPG, WebP, AVIF, GIF and TIFF. Drag and drop, live progress, a full before/after report, and save straight to any folder on your disk.",
+    "price": "2.99 USD",
+    "user": "jorgedevreact",
+    "game": "plugin-image-converter",
+    "youtube":"https://youtu.be/BKuwHxruWRg"
+   },
+   {
     "id": "bg-remover",
     "title": "Background Remover",
     "description": "Turn any image with a solid, single-color background into a clean transparent PNG — batch, with edge halo removal.",
